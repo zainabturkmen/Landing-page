@@ -3,9 +3,13 @@ Landing Page
 
 ![Alt text](<Screenshot 2023-12-13 091559.png>)
 
+![Alt text](<Screenshot 2023-12-13 091701.png>)
+
+
+![Alt text](<Screenshot 2023-12-13 091636.png>)
+
 
 Quick start:
-
 
 
 $ npm install
