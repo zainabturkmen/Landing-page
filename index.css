@@ -127,6 +127,7 @@ button{
     .container{
         width: 731px;
         height: 100vh;
+        margin-top: 2em;
     }
 
     h1{
@@ -142,6 +143,6 @@ button{
     }
 
     form{
-        
+        flex-direction: column;
     }
 }
