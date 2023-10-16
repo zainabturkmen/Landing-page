@@ -4,8 +4,7 @@ html, body {
 }
 
 .container{
-    background: url('bg.jpg'), #5417d8;
-    /* width: 510px; */
+    background-color: #5200FF;
     height: 576px;
     display: flex;
     background-size: cover;
@@ -13,7 +12,26 @@ html, body {
     align-items: center;
     text-align: center;
     justify-content: center;
+    position: relative;
 }
+
+.container:before{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('bg.jpg');
+    background-size: cover;
+    background-position: 100%;
+    opacity: .22;
+}
+
+.main-container{
+    position: relative;
+}
+
 
 h1{
     width: 425px;
