@@ -101,8 +101,11 @@ button{
     }
 
     h1{
-        width: 500px;
         height: 212px;
+        width: 642px;
+        height: 212px;
+       flex-shrink: 0;
+       text-align: center;
     }
 
     p{
