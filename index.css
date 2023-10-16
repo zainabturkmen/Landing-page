@@ -80,7 +80,6 @@ button{
 
 @media  only screen and (min-width: 770px){
     .container{
-        /* width: 770px; */
         height: 576px;
     }
 
