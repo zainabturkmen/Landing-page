@@ -123,4 +123,15 @@ button{
     body{
         display: flex;
     }
+
+    .container{
+        width: 731px;
+        height: 100vh;
+    }
+
+    h1{
+        width: 423px;
+        height: 239px;
+    }
+
 }
