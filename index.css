@@ -142,8 +142,17 @@ button{
         text-align: right;
     }
 
+    form{
+        margin-left: 2em;
+    }
+
     .forms{
         display: flex;
         flex-direction: column;
+    }
+
+    .name, .email{
+        width: 422px;
+        height: 65px;
     }
 }
