@@ -117,6 +117,10 @@ button{
         width: 187px;
         margin-bottom: 0.5em;
     }
-
-
+}
+ 
+@media only screen and (min-width: 1260px) {
+    .container{
+       
+    } 
 }
