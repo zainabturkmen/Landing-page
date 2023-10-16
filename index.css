@@ -121,7 +121,7 @@ button{
  
 @media only screen and (min-width: 1260px) {
     .container{
-       display: flex;
+       /* display: flex; */
        /* flex-direction: row; */
     } 
 }
