@@ -83,4 +83,14 @@ button{
         width: 770px;
         height: 576px;
     }
+
+    h1{
+        width: 500px;
+        height: 212px;
+    }
+
+    p{
+        width: 641px;
+        height: 61px;
+    }
 }
