@@ -50,7 +50,7 @@ form{
     height: 65px;
     flex-shrink: 0;
     margin-top: 1em;
-    margin-bottom: 2em;
+    margin-bottom: 3em;
     border: 1px solid #C7C7C7;
     background: #EDEDED;
 }
@@ -74,4 +74,5 @@ button{
     line-height: normal;
     background: #5200FF;
     border: none;
+    margin-bottom: 3.5em;
 }
