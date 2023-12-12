@@ -94,7 +94,7 @@ button{
         height: 61px;
     }
 
-    form{
-        
+    .forms{
+        display: flex;
     }
 }
