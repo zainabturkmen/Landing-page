@@ -12,10 +12,19 @@ html, body {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    justify-content: center;
 }
 
-h{
-
+h1{
+    width: 425px;
+    height: 212px;
+    color: #FFF;
+    text-align: center;
+    font-family: Bebas Neue;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: normal;
+    text-transform:uppercase ;
 }
  
 p{
