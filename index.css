@@ -96,10 +96,12 @@ button{
 
     .forms{
         display: flex;
+        justify-content: space-between;
     }
 
     .name, .email{
         width: 303px;
         height: 65px;
+
     }
 }
