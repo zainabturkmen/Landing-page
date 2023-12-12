@@ -4,5 +4,7 @@ html, body {
 }
 
 .container{
-    background-image: url(co9a34c1c9f3b858bfb39960a/bg.jpg);
+    background: url('bg.jpg'), #5417d8;
+    width: 510px;
+    height: 576px;
 }
