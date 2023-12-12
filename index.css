@@ -50,6 +50,7 @@ form{
     height: 65px;
     flex-shrink: 0;
     margin-top: 2em;
+    margin-bottom: 2em;
 }
 
 .name{
@@ -71,5 +72,4 @@ button{
     line-height: normal;
     background: #5200FF;
     border: none;
-    padding-top: 2em;
 }
