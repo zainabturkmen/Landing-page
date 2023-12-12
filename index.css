@@ -4,5 +4,5 @@ html, body {
 }
 
 .container{
-    background: url('co9a34c1c9f3b858bfb39960a/bg.jpg'), lightgray -549.814px -38.128px / 221.268% 125.542% no-repeat, #5200FF;
+    background-image: url(co9a34c1c9f3b858bfb39960a/bg.jpg);
 }
