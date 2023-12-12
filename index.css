@@ -97,4 +97,9 @@ button{
     .forms{
         display: flex;
     }
+
+    .name, .email{
+        width: 303px;
+        height: 65px;
+    }
 }
