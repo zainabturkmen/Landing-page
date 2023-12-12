@@ -93,21 +93,20 @@ button{
         width: 641px;
         height: 61px;
     }
+    
     form{
         align-items: start;
         margin: 4em 4em;
-
     }
 
     .forms{
         display: flex;
-        justify-content: space-between;
+        justify-content: space-around;
     }
 
     .name, .email{
         width: 303px;
         height: 65px;
-        margin: 1.5em;
     }
 
     button{
