@@ -5,7 +5,7 @@ html, body {
 
 .container{
     background: url('bg.jpg'), #5417d8;
-    width: 510px;
+    /* width: 510px; */
     height: 576px;
     display: flex;
     background-size: cover;
