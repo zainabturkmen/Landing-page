@@ -17,16 +17,24 @@ html, body {
 
 h1{
     width: 425px;
-    height: 212px;
     color: #FFF;
     text-align: center;
     font-family: Bebas Neue;
-    font-size: 40px;
+    font-size: 64px;
     font-weight: 400;
     line-height: normal;
     text-transform:uppercase ;
+    margin-top: -1em;
 }
  
 p{
-
+    width: 424px;
+    /* height: 61px; */
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
 }
