@@ -96,7 +96,7 @@ button{
 
     form{
         align-items: start;
-        margin: 4em 4em;
+        padding: 1em 4em;
     }
 
     .forms{
@@ -110,12 +110,12 @@ button{
     }
 
     .first-lable{
-        margin-left: 2em;
+       margin-right: 3em;
     }
 
     button{
         width: 187px;
-        height: 63px;
+        margin-bottom: 0.5em;
     }
 
 
