@@ -95,7 +95,8 @@ button{
     }
     form{
         align-items: start;
-        
+        margin: 4em 4em;
+
     }
 
     .forms{
@@ -106,7 +107,7 @@ button{
     .name, .email{
         width: 303px;
         height: 65px;
-        /* margin: 1.5em; */
+        margin: 1.5em;
     }
 
     button{
