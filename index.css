@@ -93,4 +93,8 @@ button{
         width: 641px;
         height: 61px;
     }
+
+    form{
+        flex-direction: row;
+    }
 }
