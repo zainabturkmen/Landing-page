@@ -93,6 +93,10 @@ button{
         width: 641px;
         height: 61px;
     }
+    form{
+        align-items: start;
+        
+    }
 
     .forms{
         display: flex;
@@ -102,11 +106,13 @@ button{
     .name, .email{
         width: 303px;
         height: 65px;
-        margin: 1.5em;
+        /* margin: 1.5em; */
     }
 
     button{
         width: 187px;
         height: 63px;
     }
+
+
 }
