@@ -37,3 +37,39 @@ p{
     font-weight: 500;
     line-height: normal;
 }
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 3em;
+}
+
+.name, .email{
+    width: 427px;
+    height: 65px;
+    flex-shrink: 0;
+    margin-top: 2em;
+}
+
+.name{
+    color: #000;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+button{
+    width: 427px;
+    height: 63px;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    background: #5200FF;
+    
+}
