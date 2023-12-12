@@ -67,9 +67,9 @@ button{
     color: #FFF;
     font-family: Poppins;
     font-size: 18px;
-    font-style: normal;
     font-weight: 500;
     line-height: normal;
     background: #5200FF;
-    
+    border: none;
+    margin-top: ;
 }
