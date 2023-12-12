@@ -93,7 +93,7 @@ button{
         width: 641px;
         height: 61px;
     }
-    
+
     form{
         align-items: start;
         margin: 4em 4em;
@@ -107,6 +107,10 @@ button{
     .name, .email{
         width: 303px;
         height: 65px;
+    }
+
+    .first-lable{
+        margin-left: 2em;
     }
 
     button{
