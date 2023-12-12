@@ -77,3 +77,10 @@ button{
     margin-bottom: 4.5em;
     margin-top: 1.5em;
 }
+
+@media  only screen and (min-width: 770px){
+    .container{
+        width: 770px;
+        height: 576px;
+    }
+}
